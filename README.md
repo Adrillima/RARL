@@ -1,6 +1,6 @@
 # 👾 RARL
 
-## ´´Receptor de Alertas em Rede Local´´
+## `Receptor de Alertas em Rede Local.`
 
 Este código implementa um receptor de alertas via rede local (LAN) utilizando protocolo UDP.
 
