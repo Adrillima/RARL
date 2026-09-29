@@ -21,7 +21,7 @@ def iniciar_receptor():
             
             # Dispara o popup do Windows
             notificacao = Notification(
-                app_id="🟡 Alerta de Seguarança!",
+                app_id="🟡 Alerta de Segurança!",
                 title="Modificação de Arquivo detectada!",
                 msg=f"Arquivo: {info['nome']}\n {info['data']}\n Original: {info['original']}",
                 icon=r"C:\Users\matheus\Desktop\CFPM\assets\\geodrive.png", # Ajuste o caminho se necessário nestes PCs
